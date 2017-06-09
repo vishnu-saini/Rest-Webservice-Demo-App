@@ -8,5 +8,6 @@ RemoteSystemsTempFiles/
 .classpath
 .project
 .settings/
+build/
 bin/
 target/
